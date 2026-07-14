@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "https://github.com/HamsterxDD/pac3/raw/refs/heads/main/hair.vtf"
+	"$bumpmap" "https://github.com/HamsterxDD/pac3/raw/refs/heads/main/hair_a.vtf"
+	"$translucent" 1
+
+	$phong 1
+  	$phongfresnelranges "[0.5 0.75 1]"
+    	$phongtint "[0.6 0.6 0.6]"
+	$phongexponent 6
+	$phongboost .2
+	$allowalphatocoverage 1
+
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$nocull" 1
+	"$nodecal" 1
+
+	$bumpmapalphaphongmask        1
+
+}
